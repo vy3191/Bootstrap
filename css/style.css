@@ -1,0 +1,52 @@
+.banner img {
+    width: 100%;
+}
+.navbar {
+    margin-bottom: 0;
+}
+hr {
+margin: 80px 0;
+}
+.technology .row {
+    text-align: center;
+
+}
+.heading {
+    font-weight:300px;
+    line-height: 1;
+    letter-spacing: -1;
+}
+ h1 {
+    text-align: center;
+}
+.companies h2 {
+    margin: 50px 0;
+}
+.companies img {
+    margin: 50px 0;
+}
+footer {
+    background: gray;
+    padding:30px;
+
+}
+footer p {
+    color: #fff;
+}
+a.top {
+text-decoration: none;
+color: #fff;
+font-size: 18px;
+}
+
+
+
+.google, .yahoo {
+  padding-top: 25px;
+}
+.google {
+  width: 100%;
+}
+.twitter {
+  padding-bottom: 10px;
+}
